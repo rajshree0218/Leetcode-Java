@@ -1,6 +1,5 @@
 package org.example.leetcode.interview150.easy.stack;
 
-import org.example.goldmansach.interview.questions.coding.low.Deque1;
 
 import java.util.Deque;
 import java.util.LinkedList;
