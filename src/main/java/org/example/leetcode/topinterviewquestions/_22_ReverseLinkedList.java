@@ -1,8 +1,6 @@
 package org.example.leetcode.topinterviewquestions;
 
 
-import com.sun.tools.classfile.Annotation;
-
 import java.util.ArrayList;
 
 //Given the head of a singly linked list, reverse the list, and return the reversed list.
